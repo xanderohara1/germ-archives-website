@@ -4,3 +4,6 @@ _site
 assets/img/blog/.jekyll-cache
 Gemfile.lock
 .vscode/settings.json
+ _site
+ .jekyll-cache
+ Gemfile.lock
